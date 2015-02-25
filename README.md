@@ -8,7 +8,7 @@ emitted on stdout.
 ## Sample Output
 
 ````
-$ ./boot_root_nfs server:/p2/netboot/10-stable /
+$ ./boot_root_nfs server:/netboot/10-stable /
 -e boot.nfsroot.server=192.0.2.1
 -e boot.nfsroot.nfshandle=Xffd8bce2de73f4a90a000400000000005e860b000000000000000000X
 -e boot.nfsroot.nfshandlelen=28
